@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "サインはB -アイ Solo Ver.-",
+  "base_artist": "B小町 アイ（CV：高橋李依）",
+  "createdAt": "2025-12-20T10:30:26.920957Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サインはB -アイ Solo Ver.-",
+      "artist": "高橋李依",
+      "has_synced": true,
+      "path": "select/01_サインはB_-アイ_Solo_Ver.-_高橋李依.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サインはB - アイ Solo Ver.",
+      "artist": "B小町",
+      "has_synced": true,
+      "path": "select/02_サインはB_-_アイ_Solo_Ver._B小町.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サインはB -アイ Solo Ver.-",
+      "artist": "B小町 アイ",
+      "has_synced": true,
+      "path": "select/03_サインはB_-アイ_Solo_Ver.-_B小町_アイ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サインはB -アイ Solo Ver.-",
+      "artist": "B小町 アイ(CV.高橋李依)",
+      "has_synced": true,
+      "path": "select/04_サインはB_-アイ_Solo_Ver.-_B小町_アイ(CV.高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サインはB -アイ Solo Ver.-",
+      "artist": "B小町 アイ(CV：高橋李依)",
+      "has_synced": true,
+      "path": "select/05_サインはB_-アイ_Solo_Ver.-_B小町_アイ(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サインはB -アイ Solo Ver.-",
+      "artist": "B小町 アイ(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/06_サインはB_-アイ_Solo_Ver.-_B小町_アイ(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サインはB -アイ Solo Ver.-\u0000",
+      "artist": "B小町 アイ(CV:高橋李依)\u0000",
+      "has_synced": true,
+      "path": "select/07_サインはB_-アイ_Solo_Ver.-\u0000_B小町_アイ(CV_高橋李依)\u0000.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サインはB -アイ Solo Ver.-",
+      "artist": "B小町 feat. アイ(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/08_サインはB_-アイ_Solo_Ver.-_B小町_feat._アイ(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "サインはB -アイ Solo Ver.- (instrumental)",
+      "artist": "B小町 Ai(CV:Rie Takahashi)",
+      "has_synced": true,
+      "path": "select/09_サインはB_-アイ_Solo_Ver.-_(instrumental)_B小町_Ai(CV_Rie_Takahashi).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サインはB -アイ Solo Ver.-",
+      "artist": "B小町 アイ(CV:高橋李依)",
+      "has_synced": false,
+      "path": "select/pl_01_サインはB_-アイ_Solo_Ver.-_B小町_アイ(CV_高橋李依).txt"
+    }
+  ]
+}
